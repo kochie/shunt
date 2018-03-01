@@ -1,0 +1,8 @@
+{
+    "name": "Shunt Level",
+    "alias": [
+        "shuntlevel.now.sh",
+        "shuntlevel.info"
+    ],
+    "type": "static"
+}
